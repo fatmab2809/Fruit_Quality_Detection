@@ -1,5 +1,5 @@
-# Fruit_Quality_Detection
-MATLAB application to detect the ripeness and size of apple and banana
+# Fruit Quality Detection
+MATLAB application to detect the ripeness and size of apple and banana by Image Processing. Applied thresholding and canny edge detection techniques.
 
 ### Result Screenshots for Ripe Apple
 ![image](https://user-images.githubusercontent.com/61155773/166093164-1dc2f5fb-fc34-41d4-9e64-4f04a02dd36b.png)
